@@ -1,0 +1,77 @@
+* {
+    margin: 0%;
+}
+
+.page {
+    padding: 5%
+}
+
+#header {
+    background-color: #1f2937;
+    color: white;
+    padding: 0% 5%;
+    padding-top: 10px;
+}
+
+#landing {
+    background-color: #1f2937;
+    color: white;
+    padding: 5%;
+}
+
+#projects {
+    background-color: white;
+    color: black;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-item {
+    flex: 1; 
+    justify-content: left;
+}
+
+#links {
+    gap: 10%;
+}
+
+#dwayne {
+    height: auto;
+    width: 100%;
+}
+
+#projects
+p {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#projects
+h1 {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+#projects
+.flex-container {
+    gap: 5%;
+}
+
+.tiny {
+    height: auto;
+    width: 100%;
+    border: 4px solid rgb(0, 89, 255);
+    border-radius: 25px;
+}
+
+#goals {
+    background-color: rgb(209, 209, 209);
+    color: black;
+}
+
+#goals h2 {
+    text-align: right;
+}
