@@ -52,12 +52,18 @@ p {
 #projects
 h1 {
     text-align: center;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
 }
 
 #projects
 .flex-container {
-    gap: 5%;
+    gap: 3%;
+    justify-content: center;
+}
+
+#projects
+.flex-item {
+    max-width: 250px;
 }
 
 .tiny {

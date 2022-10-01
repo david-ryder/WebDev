@@ -45,3 +45,10 @@ align-items:
 
 gap:
 - adds specified space between flex items, like a margin would
+
+### Tables
+
+declare with table
+tr = table row
+th = table header
+td = table data
